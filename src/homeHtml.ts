@@ -692,7 +692,7 @@ export const blogHomeHtml = `<!doctype html>
       <section id="appView" class="app-dimmed">
         <header id="topbar" class="card topbar hidden-when-modal">
           <div>
-            <h1 class="topbar-title">我的笔记</h1>
+            <h1 class="topbar-title">蜗牛的加密笔记</h1>
             <div class="topbar-subtitle">端到端加密 · 本地解锁 · 本地搜索</div>
           </div>
           <div class="topbar-actions">
